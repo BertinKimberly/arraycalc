@@ -1,0 +1,1 @@
+const app=require('array_calculating');
